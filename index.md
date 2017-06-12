@@ -28,7 +28,7 @@ To get started with {{site.data.keyword.product-insights_short}}, complete the f
 2.  Connect your enabled, on-premises IBM software products to your {{site.data.keyword.product-insights_short}} service. As part of the configuration process for each product, you need the service credentials (that is, the apikey and apihost). You can find the service credentials in the **Service Credentials** tab of your service dashboard. 
 3.  After you enable and connect each product instance, you may need to start or restart the products or product instances for them to provide product and usage information to the {{site.data.keyword.product-insights_short}} service. 
 
-For details on enabling products, the minimum support level required for each product, and how to enable each product to integrate with {{site.data.keyword.product-insights_short}}, join the {{site.data.keyword.product-insights_full}} [Technical Community](https://developer.ibm.com/product-insights/).
+For details on the enabling products, the minimum support level required for each product, and how to enable each product to integrate with {{site.data.keyword.product-insights_short}}, join the {{site.data.keyword.product-insights_full}} [Technical Community](https://developer.ibm.com/product-insights/).
 
 You can view your inventory by selecting **Manage** in the service dashboard.  
 
